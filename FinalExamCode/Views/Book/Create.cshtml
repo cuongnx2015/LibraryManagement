@@ -1,0 +1,41 @@
+﻿@{
+    Layout = "~/Views/Shared/AdminLayout.cshtml";
+}
+@model Book
+
+<h2>Create New Book</h2>
+
+<form asp-action="Create" method="post" enctype="multipart/form-data">
+    <div class="form-group">
+        <label for="Title">Title</label>
+        <input type="text" class="form-control" id="Title" name="Title" required />
+    </div>
+
+    <div class="form-group">
+        <label for="Author">Author</label>
+        <input type="text" class="form-control" id="Author" name="Author" required />
+    </div>
+
+    <div class="form-group">
+        <label for="CategoryId">Category</label>
+        <select class="form-control" id="CategoryId" name="CategoryId" required>
+            <option value="">-- Select Category --</option>
+            @foreach (var category in ViewBag.Categories as List<BookCategory>)
+            {
+                <option value="@category.Id">@category.Title</option>
+            }
+        </select>
+    </div>
+
+    <div class="form-group">
+        <label for="CoverImage">Cover Image</label>
+        <input type="file" class="form-control" id="CoverImage" name="CoverImage" />
+    </div>
+
+    <div class="form-group">
+        <label for="PdfFile">PDF File</label>
+        <input type="file" class="form-control" id="PdfFile" name="PdfFile" accept=".pdf" />
+    </div>
+    <br />
+    <button type="submit" class="btn btn-primary">Create Book</button>
+</form>

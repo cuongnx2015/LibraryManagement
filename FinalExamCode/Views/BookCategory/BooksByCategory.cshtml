@@ -1,0 +1,50 @@
+﻿@model BookCategory
+<div class="container">
+    <h1>Books in "@Model.Title"</h1>
+    <div class="row">
+        @if (Model.Book != null && Model.Book.Any())
+        {
+            @foreach (var book in Model.Book)
+            {
+                <div class="col-md-3">
+                    <!-- Adjust grid size for larger spacing -->
+                    <div class="card mb-4">
+                        <img src="@book.CoverUrl" class="card-img-top" alt="@book.Title">
+                        <div class="card-body">
+                            <h5 class="card-title">@book.Title</h5>
+                            <p class="card-text">Author: @book.Author</p>
+                            @if (User.Identity.IsAuthenticated)
+                            {
+                                @if (!string.IsNullOrEmpty(book.PdfUrl))
+                                {
+                                    <a href="@Url.Content($"~{book.PdfUrl}")" class="btn btn-primary" target="_blank">View PDF</a>
+                                }
+                                else
+                                {
+                                    <p class="text-muted">No PDF available</p>
+                                }
+                            }
+                            else
+                            {
+                                <a class="nav-link text-primary" asp-area="" asp-controller="Account" asp-action="Login">Login to read this book</a>
+                            }
+                        </div>
+                    </div>
+                </div>
+            }
+        }
+        else
+        {
+            <p>No books available in this category.</p>
+        }
+    </div>
+</div>
+<div class="pagination-container">
+    <ul>
+        <li class="disabled"><span>«</span></li>
+        <li class="active"><span>1</span></li>
+        <li><a href="/page/2">2</a></li>
+        <li><a href="/page/3">3</a></li>
+        <li><a href="/page/4">»</a></li>
+    </ul>
+</div>

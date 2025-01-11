@@ -1,0 +1,17 @@
+﻿body {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+nav {
+    min-height: 100vh;
+}
+
+    nav a {
+        text-decoration: none;
+    }
+
+        nav a:hover {
+            background-color: #495057;
+            color: #fff;
+        }

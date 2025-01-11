@@ -1,0 +1,88 @@
+.card[b-pwaksf3e98] {
+    height: 100%; /* Ensure all cards have the same height */
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Align card content properly */
+}
+
+.card-img-top[b-pwaksf3e98] {
+    width: 100%; /* Ensure images take the full width of the card */
+    height: 350px; /* Set a fixed height for consistency */
+    object-fit: cover; /* Maintain aspect ratio and crop excess */
+}
+
+.card-body[b-pwaksf3e98] {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between; /* Space between elements inside the card */
+}
+
+.card-title[b-pwaksf3e98] {
+    font-size: 1rem; /* Adjust the title size for consistency */
+    text-align: center;
+}
+
+.card-text[b-pwaksf3e98] {
+    font-size: 0.875rem; /* Smaller text for descriptions */
+    text-align: center;
+}
+
+.card a.btn-primary[b-pwaksf3e98] {
+    margin-top: auto; /* Push the button to the bottom of the card body */
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.card p.text-muted[b-pwaksf3e98] {
+    font-size: 0.8rem;
+    text-align: center;
+}
+
+
+
+.pagination-container[b-pwaksf3e98] {
+    text-align: center;
+    margin-top: 20px;
+}
+
+    .pagination-container ul[b-pwaksf3e98] {
+        display: inline-flex;
+        list-style: none;
+        padding: 0;
+        margin: 0;
+    }
+
+        .pagination-container ul li[b-pwaksf3e98] {
+            margin: 0 5px;
+        }
+
+            .pagination-container ul li a[b-pwaksf3e98],
+            .pagination-container ul li span[b-pwaksf3e98] {
+                display: block;
+                padding: 8px 12px;
+                border: 1px solid #ddd;
+                border-radius: 4px;
+                text-decoration: none;
+                color: #007bff;
+                background-color: #f8f9fa;
+                transition: all 0.3s;
+            }
+
+                .pagination-container ul li a:hover[b-pwaksf3e98] {
+                    background-color: #007bff;
+                    color: #fff;
+                }
+
+            .pagination-container ul li.active span[b-pwaksf3e98] {
+                background-color: #007bff;
+                color: #fff;
+                border-color: #007bff;
+                font-weight: bold;
+                cursor: default;
+            }
+
+            .pagination-container ul li.disabled span[b-pwaksf3e98] {
+                background-color: #e9ecef;
+                color: #6c757d;
+                cursor: not-allowed;
+            }

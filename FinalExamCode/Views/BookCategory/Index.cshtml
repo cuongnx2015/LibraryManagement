@@ -1,0 +1,21 @@
+﻿@model IEnumerable<BookCategory>
+
+<div class="container">
+    <h1>Book Categories</h1>
+    <ul class="list-group">
+        @foreach (var category in Model)
+        {
+
+            <li class="list-group-item d-flex justify-content-between align-items-center">
+                <div class="d-flex align-items-center">
+                    <a href="@Url.Action("BooksByCategory", "BookCategory", new { id = category.Id })" class="d-flex align-items-center text-decoration-none">
+
+                    <img src="@category.AvatarUrl" alt="@category.Title" class="rounded-circle me-3" style="width: 50px; height: 50px;">
+                    <span>@category.Title</span>
+                    </a>
+                </div>
+                <span class="badge bg-primary rounded-pill">@category.BookCount</span>
+            </li>
+        }
+    </ul>
+</div>

@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\FinalExamCode.bundle.scp.css",
+      "PackagePath": "staticwebassets\\FinalExamCode.3pjsj7cg6h.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\1.png",
+      "PackagePath": "staticwebassets\\images\\1.png"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\121212.jpg",
+      "PackagePath": "staticwebassets\\images\\121212.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\1234.jpg",
+      "PackagePath": "staticwebassets\\images\\1234.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\1300x406 (1).jpg",
+      "PackagePath": "staticwebassets\\images\\1300x406 (1).jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\1300x406.jpg",
+      "PackagePath": "staticwebassets\\images\\1300x406.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\1698214830141.png",
+      "PackagePath": "staticwebassets\\images\\1698214830141.png"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\43c26dcf8b6fc6467984d373e95d3f68.jpg",
+      "PackagePath": "staticwebassets\\images\\43c26dcf8b6fc6467984d373e95d3f68.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\61-uphoHawL._SL1360_.jpg",
+      "PackagePath": "staticwebassets\\images\\61-uphoHawL._SL1360_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\61svjW8j07L._SL1360_.jpg",
+      "PackagePath": "staticwebassets\\images\\61svjW8j07L._SL1360_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\61z4D2h2R0L._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\images\\61z4D2h2R0L._SL1500_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\81rh4tPZHqL._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\images\\81rh4tPZHqL._SL1500_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\81wQIyojm1L._SL1500_.jpg",
+      "PackagePath": "staticwebassets\\images\\81wQIyojm1L._SL1500_.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\DALL·E-2023-11-27-13.56.23-A-minimalistic-and-modern-illustration-for-a-blog-post-about-Cloud-Computing.-The-design-includes-simple-symbols-representing-cloud-storage-data-tran.png",
+      "PackagePath": "staticwebassets\\images\\DALL·E-2023-11-27-13.56.23-A-minimalistic-and-modern-illustration-for-a-blog-post-about-Cloud-Computing.-The-design-includes-simple-symbols-representing-cloud-storage-data-tran.png"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png",
+      "PackagePath": "staticwebassets\\images\\WHAT-IS-THE-PURPOSE-OF-A-LIBRARY-MANAGEMENT-SYSTEM-min.png"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\cartoon-maths-elements-background-education-logo-vector.jpg",
+      "PackagePath": "staticwebassets\\images\\cartoon-maths-elements-background-education-logo-vector.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\default-cover.jpg",
+      "PackagePath": "staticwebassets\\images\\default-cover.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\dsadsadasdsa.jpg",
+      "PackagePath": "staticwebassets\\images\\dsadsadasdsa.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\images (1).png",
+      "PackagePath": "staticwebassets\\images\\images (1).png"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\images.jpg",
+      "PackagePath": "staticwebassets\\images\\images.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\images.png",
+      "PackagePath": "staticwebassets\\images\\images.png"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\library.jpg",
+      "PackagePath": "staticwebassets\\images\\library.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\nonfiction.png",
+      "PackagePath": "staticwebassets\\images\\nonfiction.png"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\photo-1507842217343-583bb7270b66.jpg",
+      "PackagePath": "staticwebassets\\images\\photo-1507842217343-583bb7270b66.jpg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\python-programming-language.webp",
+      "PackagePath": "staticwebassets\\images\\python-programming-language.webp"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\images\\red_dwarf-1.jpeg",
+      "PackagePath": "staticwebassets\\images\\red_dwarf-1.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\uploads\\pdfs\\Có 2 con mèo ngồi bên cửa sổ.pdf",
+      "PackagePath": "staticwebassets\\uploads\\pdfs\\Có 2 con mèo ngồi bên cửa sổ.pdf"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\uploads\\pdfs\\L-0012607146-pdf.pdf",
+      "PackagePath": "staticwebassets\\uploads\\pdfs\\L-0012607146-pdf.pdf"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\uploads\\pdfs\\SanHoDo.pdf",
+      "PackagePath": "staticwebassets\\uploads\\pdfs\\SanHoDo.pdf"
+    },
+    {
+      "Id": "C:\\Users\\NXC\\Desktop\\FinalExamCode\\FinalExamCode\\wwwroot\\uploads\\pdfs\\book.pdf",
+      "PackagePath": "staticwebassets\\uploads\\pdfs\\book.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalExamCode.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.FinalExamCode.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.FinalExamCode.props",
+      "PackagePath": "build\\FinalExamCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.FinalExamCode.props",
+      "PackagePath": "buildMultiTargeting\\FinalExamCode.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.FinalExamCode.props",
+      "PackagePath": "buildTransitive\\FinalExamCode.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
